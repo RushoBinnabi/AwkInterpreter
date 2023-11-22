@@ -1,0 +1,7 @@
+BEGIN {}
+
+	testFunction() {
+		return 1 + 2;
+	}
+
+END {testFunction()}

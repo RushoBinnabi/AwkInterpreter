@@ -1,0 +1,10 @@
+BEGIN {
+    printf "Enter the student's name: "
+    getline name < "-"
+}
+
+$2 == name {
+    print
+}
+
+END {}
