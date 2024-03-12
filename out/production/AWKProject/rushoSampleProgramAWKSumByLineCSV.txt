@@ -1,7 +1,0 @@
-BEGIN {FS=","; line1=0; line2=0; sum=0}
-
-    {line1+=$0}
-    {line2+=$0}
-    {sum+=$0}
-   
-   END {print "Line 1: "line1" \nLine 2: "line2" \nGrand Total:", sum}
