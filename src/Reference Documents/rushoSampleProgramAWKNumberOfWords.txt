@@ -1,8 +1,0 @@
-BEGIN {
-
-   for (i=0; i<=nw; i++) {
-        nw = i + NF;
-    }
-}
-
-END { print nw, " words" }
