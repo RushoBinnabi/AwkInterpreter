@@ -1,2 +1,3 @@
 # Awk-Interpreter
-This awk interpreter implements AWK using Java.
+
+This project implements an AWK interpreter using Java.
