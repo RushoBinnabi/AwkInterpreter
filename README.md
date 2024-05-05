@@ -8,4 +8,6 @@ This project implements an AWK interpreter using Java.
 
 Open a command prompt/terminal window from the `src` and type in the following commands:
 
-`javac Main.java [awk file here] rushoSampleProgramAWKNumberOfWords.txt` then `java Main`
+`javac Main.java [awk file here] rushoSampleProgramAWKNumberOfWords.txt`
+
+`java Main`
